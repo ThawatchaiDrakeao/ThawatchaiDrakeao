@@ -1,126 +1,253 @@
-# 👋 Hi, I'm Thawatchai Dakaew
+<h1 align="center">Hi 👋, I'm Thawatchai Dakaew</h1>
+
+<h3 align="center">
+Backend Developer • Full Stack Developer • Database Enthusiast
+</h3>
 
 <p align="center">
-Backend Developer • Full Stack Developer • Database Enthusiast
+Building scalable backend systems, RESTful APIs, and database-driven applications with modern web technologies.
+</p>
+
+<p align="center">
+
+<a href="mailto:ctrl.logic.feng@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/fong-thawatchai-drakeao">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://fengpixel-worldportfolio-project.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-I'm a Full Stack Developer who enjoys building scalable web applications, RESTful APIs, and database-driven systems. I have hands-on experience developing both frontend and backend applications using modern JavaScript technologies.
+I'm a Backend-focused Full Stack Developer experienced in designing and developing web applications, RESTful APIs, authentication systems, and database-driven platforms.
 
-I'm passionate about Backend Development, Database Administration, Cloud Technologies, and continuously improving software quality through clean architecture and best practices.
+I enjoy building reliable software solutions through:
 
-Currently, I'm seeking opportunities as a **Backend Developer**, **Full Stack Developer**, or **Database Administrator (Junior DBA)**.
+- Clean architecture
+- Efficient database design
+- Secure API development
+- Scalable backend systems
+- Real-world business workflows
+
+
+Currently focusing on:
+
+- 💻 Backend Development
+- 🗄 Database Administration
+- ☁️ Cloud Infrastructure
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
-### Frontend
+## Languages
 
-- React
-- Vite
-- Tailwind CSS
-- JavaScript (ES6+)
-- HTML5
-- CSS3
+<p>
+<img src="https://skillicons.dev/icons?i=javascript,html,css" />
+</p>
 
-### Backend
 
-- Node.js
-- Express.js
-- REST API
-- JWT Authentication
-- Middleware
-- Multer
+## Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind" />
+</p>
+
+
+## Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+
+## Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,supabase" />
+</p>
+
+
+## Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,linux" />
+</p>
+
+
+## Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,npm" />
+</p>
+
+---
+
+# 🧠 Technical Skills
+
+### Backend Development
+- RESTful API Design
+- Express.js Architecture
+- MVC Pattern
+- Authentication & Authorization
+- JWT Security
+- API Documentation
 
 ### Database
-
+- Relational Database Design
+- SQL Query Optimization
 - PostgreSQL
 - MySQL
-- MongoDB
-- Supabase
-- Mongoose
+- MongoDB Schema Design
+- Aggregation Pipeline
 
-### Cloud & Tools
-
-- Git
-- GitHub
-- Postman
-- Docker (Learning)
-- AWS RDS (Learning)
-- Power BI
-- VS Code
+### System Development
+- CRUD Business Systems
+- Booking Systems
+- Payment Workflow
+- Admin Dashboard
+- LINE Messaging API Integration
+- Database Management
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### ⚽ Football Hub
 
-A football community platform where users can browse football products, book football fields, and find teammates.
+## ⚽ Football Hub
 
-**Tech Stack**
+Full Stack Football Community Platform
 
-- React
-- Node.js
-- Express
-- MongoDB
-- JWT
+Features:
+- User Authentication
+- Football Equipment Marketplace
+- Field Booking System
+- Admin Management
+- Protected API
 
----
+Tech:
 
-### 🏟 NexPlay
+React • Node.js • Express • MongoDB • JWT
 
-A sports venue booking platform with payment slip verification, admin dashboard, booking management, and LINE integration.
-
-**Tech Stack**
-
-- Node.js
-- Express
-- PostgreSQL
-- Supabase
-- React
 
 ---
 
-### 👟 Kinetix
+## 🏟 NexPlay
 
-A shoe rental management platform supporting user authentication, rental workflow, inventory management, and order tracking.
+Sports Venue Booking Platform
 
-**Tech Stack**
+Features:
+- Booking Management
+- Payment Slip Workflow
+- Admin Dashboard
+- LINE Messaging API Integration
+- PostgreSQL Database
 
-- React
-- Express
-- MongoDB
+Tech:
 
----
+React • Node.js • Express • Supabase • PostgreSQL
 
-## 📜 Certifications
-
-> Certificate images will be displayed below.
-
----
-
-## 📈 Currently Learning
-
-- Database Administration
-- SQL Performance Tuning
-- AWS RDS
-- Docker
-- Linux
-- System Design
 
 ---
 
-## 📫 Contact
+## 👟 Kinetix
 
-- 📧 Email: ctrl.logic.feng@gmail.com
-- 💼 LinkedIn: www.linkedin.com/in/fong-thawatchai-drakeao
-- 🌐 Portfolio: https://fengpixel-worldportfolio-project.vercel.app/
+Shoe Rental Platform
+
+Features:
+- Product Management
+- Rental Workflow
+- Inventory Management
+- Order Tracking
+- User Authentication
+
+Tech:
+
+React • Express • MongoDB
+
 
 ---
 
-⭐ Thank you for visiting my GitHub profile!
+# 📜 Certifications
+
+| Certificate | Organization |
+|---|---|
+| 🏆 Junior Software Developer | Generation Thailand |
+| 🌐 HTML Semantic HTML | freeCodeCamp |
+| 🎨 CSS Course | freeCodeCamp |
+| 📐 CSS Box Model & Layout | freeCodeCamp |
+| ⚡ JavaScript Fundamentals | freeCodeCamp |
+
+---
+
+# 📚 Currently Learning
+
+- 🟢 Database Administration
+- 🟢 AWS RDS
+- 🟢 SQL Performance Optimization
+- 🟢 Docker
+- 🟢 Linux Server Administration
+- 🟢 Redis
+- 🟢 System Design
+
+---
+
+# 🔥 GitHub Streak
+
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=ThawatchaiDrakeao&theme=tokyonight"/>
+
+</p>
+
+
+---
+
+# 🏆 GitHub Trophy
+
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ThawatchaiDrakeao&theme=tokyonight&row=1"/>
+
+</p>
+
+
+---
+
+# 📫 Contact
+
+📧 Email
+
+ctrl.logic.feng@gmail.com
+
+
+💼 LinkedIn
+
+https://www.linkedin.com/in/fong-thawatchai-drakeao
+
+
+🌐 Portfolio
+
+https://fengpixel-worldportfolio-project.vercel.app/
+
+
+---
+
+<p align="center">
+
+⭐ Thanks for visiting my GitHub Profile
+
+Always Learning • Always Building 🚀
+
+</p>

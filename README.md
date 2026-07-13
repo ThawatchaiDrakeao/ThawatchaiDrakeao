@@ -10,18 +10,19 @@
   Building scalable APIs, database-driven systems, and real-world business applications.
 </p>
 
+
 <p align="center">
 
 <a href="mailto:ctrl.logic.feng@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/fong-thawatchai-drakeao">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+<a href="https://www.linkedin.com/in/fong-thawatchai-drakeao/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://fengpixel-worldportfolio-project.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel"/>
+<img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </p>
@@ -34,26 +35,28 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Backend-focused Full Stack Developer** who enjoys designing and building scalable web applications.
+I'm a **Backend-focused Full Stack Developer** who enjoys designing and building scalable web applications, RESTful APIs, and database-driven platforms.
 
-My focus areas:
 
-✨ RESTful API Development  
-✨ Database Architecture  
-✨ Authentication & Security  
+I enjoy building software through:
+
+✨ Clean Architecture  
+✨ Secure API Design  
+✨ Database Optimization  
 ✨ Business Workflow Systems  
-✨ Cloud Infrastructure  
+✨ Scalable Backend Systems  
 
 
-Currently exploring:
+Currently focusing on:
 
 🌱 Database Administration  
-☁️ AWS Cloud Services  
+☁️ AWS Cloud Infrastructure  
 🐳 Docker & Containerization  
-🏗 System Design
+🏗 System Design  
+⚡ Backend Performance Optimization  
 
 
-<br>
+<br clear="right"/>
 
 
 ---
@@ -61,39 +64,40 @@ Currently exploring:
 # 🛠️ Tech Arsenal
 
 
-### 💻 Languages
+## 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=js,html,css" />
+<img src="https://skillicons.dev/icons?i=javascript,html,css" />
 </p>
 
 
-### 🎨 Frontend
+## 🎨 Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,vite,tailwind" />
 </p>
 
 
-### ⚙️ Backend
+## ⚙️ Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
 
-### 🗄 Database
+## 🗄 Database
 
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,supabase" />
 </p>
 
 
-### ☁️ Cloud & Tools
+## ☁️ Cloud & Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github,postman,vscode" />
 </p>
+
 
 
 ---
@@ -107,34 +111,44 @@ Currently exploring:
 
 <td width="50%">
 
-### Backend
 
-✔ REST API Design  
-✔ MVC Architecture  
+## ⚙️ Backend Engineering
+
+✔ RESTful API Development  
+✔ Express.js Architecture  
+✔ MVC Pattern  
 ✔ JWT Authentication  
 ✔ Authorization System  
 ✔ API Security  
 ✔ Backend Testing  
+✔ Error Handling  
+
 
 </td>
 
 
 <td width="50%">
 
-### Database
 
-✔ SQL Design  
-✔ Query Optimization  
+## 🗄 Database Engineering
+
+✔ Database Design  
+✔ Data Modeling  
+✔ SQL Query Optimization  
 ✔ PostgreSQL  
 ✔ MySQL  
 ✔ MongoDB Schema Design  
-✔ Data Modeling  
+✔ Aggregation Pipeline  
+✔ Database Administration  
+
 
 </td>
+
 
 </tr>
 
 </table>
+
 
 
 ---
@@ -144,23 +158,46 @@ Currently exploring:
 
 ## ⚽ Football Hub
 
-> Full Stack Football Community Platform
+### Full Stack Football Community & Marketplace Platform
 
-A platform for football players with marketplace, booking system, authentication, and admin management.
+Football Hub is a full-stack web application designed to connect football players, manage football activities, and provide an online marketplace experience.
+
+The system focuses on real-world business workflows including user authentication, product management, field booking, and administrative operations.
+
+### 💡 What I Built
+
+- Designed RESTful APIs for frontend-backend communication
+- Implemented authentication and authorization workflows
+- Developed booking logic with validation to prevent conflicts
+- Built product and marketplace management features
+- Created admin management workflows
 
 
-**Tech Stack**
+### 🛠 Tech Stack
 
-`React` `Node.js` `Express` `MongoDB` `JWT`
+`React`  
+`Node.js`  
+`Express.js`  
+`MongoDB`  
+`JWT Authentication`
 
 
-Features:
+### 🔑 Key Features
 
-✅ Authentication System  
-✅ Field Booking  
-✅ Product Management  
-✅ Protected API  
-✅ Admin Dashboard
+✅ Secure User Authentication  
+✅ Role-based Authorization  
+✅ Football Equipment Marketplace  
+✅ Field Booking System  
+✅ Admin Dashboard  
+✅ Protected API Routes
+
+
+### 🧠 Engineering Focus
+
+- Backend API Architecture
+- Database Schema Design
+- Authentication Security
+- Business Logic Implementation
 
 
 
@@ -169,24 +206,47 @@ Features:
 
 ## 🏟 NexPlay
 
-> Sports Venue Booking Platform
+### Sports Venue Booking & Management Platform
+
+NexPlay is a sports venue management system designed to simplify the booking experience between customers and venue administrators.
+
+The platform focuses on transforming manual booking processes into a structured digital workflow with payment verification and administrative management.
+
+### 💡 What I Built
+
+- Designed booking workflow from reservation to confirmation
+- Created backend services for managing business logic
+- Integrated payment slip verification workflow
+- Developed admin dashboard operations
+- Connected LINE Messaging API for communication
 
 
-Business workflow system for managing sport venue reservations and payments.
+### 🛠 Tech Stack
+
+`React`  
+`Node.js`  
+`Express.js`  
+`PostgreSQL`  
+`Supabase`  
+`LINE Messaging API`
 
 
-**Tech Stack**
+### 🔑 Key Features
 
-`React` `Node.js` `Express` `Supabase` `PostgreSQL`
-
-
-Features:
-
-✅ Booking Management  
+✅ Sports Venue Booking  
+✅ Booking Status Management  
 ✅ Payment Verification Workflow  
-✅ LINE Messaging API  
 ✅ Admin Dashboard  
-✅ Database Management
+✅ LINE Notification Integration  
+✅ Database-driven Business Logic
+
+
+### 🧠 Engineering Focus
+
+- Transaction Workflow Design
+- Database Management
+- API Integration
+- Real-world Business Process Automation
 
 
 
@@ -195,57 +255,77 @@ Features:
 
 ## 👟 Kinetix
 
-> Shoe Rental Management System
+### Shoe Rental & Inventory Management Platform
+
+Kinetix is an e-commerce rental platform designed to manage the complete rental lifecycle, from product browsing to order tracking and inventory management.
+
+The project demonstrates building a system around product lifecycle and rental business operations.
+
+### 💡 What I Built
+
+- Designed product and rental data structures
+- Developed authentication system
+- Created inventory management workflow
+- Implemented order and rental tracking logic
 
 
-Rental platform with product lifecycle and order management.
+### 🛠 Tech Stack
+
+`React`  
+`Express.js`  
+`MongoDB`  
+`Mongoose`
 
 
-**Tech Stack**
-
-`React` `Express` `MongoDB`
-
-
-Features:
+### 🔑 Key Features
 
 ✅ Product Management  
 ✅ Rental Workflow  
 ✅ Inventory Tracking  
-✅ User Authentication
+✅ Order Management  
+✅ User Authentication  
+✅ Database Schema Design
 
+
+### 🧠 Engineering Focus
+
+- NoSQL Database Design
+- Data Modeling
+- Backend Service Architecture
+- Business Workflow Development
 
 ---
-
 
 # 📜 Certifications
 
 
-🏆 Junior Software Developer  
-**Generation Thailand**
+| Certificate | Organization | Credential |
+|-------------|--------------|-----------|
+| 🏆 Junior Software Developer | Generation Thailand | [📄 View](./Certificate%20Junior%20Software%20Developer.png) |
+| 🌐 HTML Semantic HTML | freeCodeCamp | [📄 View](./Learn%20HTML%20Semantic%20HTML%20Course.pdf) |
+| 🎨 CSS Course | freeCodeCamp | [📄 View](./Learn%20CSS%20Course.pdf) |
+| 📐 CSS Box Model & Layout | freeCodeCamp | [📄 View](./Learn%20CSS%20Box%20Model%20and%20Layout%20Course.pdf) |
+| 🎨 Intermediate CSS | freeCodeCamp | [📄 View](./Learn%20Intermediate%20CSS%20Course.pdf) |
+| ⚡ JavaScript Fundamentals | freeCodeCamp | [📄 View](./Learn%20JavaScript%20Fundamentals.pdf) |
 
-
-🌐 HTML / CSS / JavaScript  
-**freeCodeCamp**
-
-
-
----
-
-# 📊 GitHub Activity
-
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ThawatchaiDrakeao&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThawatchaiDrakeao&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
 
 
 ---
 
+# 📚 Currently Learning
+
+- 🟢 Database Administration
+- 🟢 AWS RDS
+- 🟢 SQL Performance Optimization
+- 🟢 Docker
+- 🟢 Linux Server Administration
+- 🟢 Redis
+- 🟢 System Design
+- 🟢 CI/CD Pipeline
+
+
+
+---
 
 # 🔥 GitHub Streak
 
@@ -257,40 +337,39 @@ Features:
 </p>
 
 
----
-
-
-# 🏆 Achievements
-
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ThawatchaiDrakeao&theme=tokyonight&row=1"/>
-
-</p>
-
 
 ---
-
 
 # 📫 Let's Connect
 
 
-📧 Email  
-ctrl.logic.feng@gmail.com
+<p align="center">
+
+<a href="mailto:ctrl.logic.feng@gmail.com">
+<img src="https://img.shields.io/badge/Email-ctrl.logic.feng%40gmail.com-red?style=flat-square&logo=gmail"/>
+</a>
 
 
-💼 LinkedIn  
-fong-thawatchai-drakeao
+<a href="https://www.linkedin.com/in/fong-thawatchai-drakeao/">
+<img src="https://img.shields.io/badge/LinkedIn-fong--thawatchai--drakeao-blue?style=flat-square&logo=linkedin"/>
+</a>
 
 
-🌐 Portfolio  
-fengpixel-worldportfolio-project.vercel.app
+<a href="https://fengpixel-worldportfolio-project.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-fengpixel--worldportfolio-black?style=flat-square&logo=vercel"/>
+</a>
 
 
+</p>
+
+
+
+---
 
 <p align="center">
 
 ⭐ Building today. Improving tomorrow.
+
+🚀 Always Learning • Always Creating
 
 </p>

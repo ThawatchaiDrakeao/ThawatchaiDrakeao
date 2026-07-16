@@ -7,9 +7,8 @@
 </h3>
 
 <p align="center">
-  Building scalable APIs, database-driven systems, and real-world business applications.
+Building scalable APIs, database-driven systems, and real-world business applications.
 </p>
-
 
 <p align="center">
 
@@ -27,49 +26,49 @@
 
 </p>
 
-
 ---
 
 <img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-
 ## 👨‍💻 About Me
 
-I'm a **Backend-focused Full Stack Developer** who enjoys designing and building scalable web applications, RESTful APIs, and database-driven platforms.
+I'm a **Backend-focused Full Stack Developer** passionate about designing scalable backend systems, RESTful APIs, cloud infrastructure, and database-driven applications.
 
+I enjoy building software through
 
-I enjoy building software through:
+✨ Clean Architecture
 
-✨ Clean Architecture  
-✨ Secure API Design  
-✨ Database Optimization  
-✨ Business Workflow Systems  
-✨ Scalable Backend Systems  
+✨ Secure API Design
 
+✨ Database Optimization
 
-Currently focusing on:
+✨ Business Workflow Systems
 
-🌱 Database Administration  
-☁️ AWS Cloud Infrastructure  
-🐳 Docker & Containerization  
-🏗 System Design  
-⚡ Backend Performance Optimization  
+✨ Scalable Backend Services
 
+Currently focusing on
+
+🌱 Database Administration
+
+☁️ AWS Cloud Infrastructure
+
+🐳 Docker & Containerization
+
+🏗 System Design
+
+⚡ Backend Performance Optimization
 
 <br clear="right"/>
 
-
 ---
 
-# 🛠️ Tech Arsenal
-
+# 🛠 Tech Arsenal
 
 ## 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=javascript,html,css" />
+<img src="https://skillicons.dev/icons?i=javascript,html,css,python" />
 </p>
-
 
 ## 🎨 Frontend
 
@@ -77,13 +76,11 @@ Currently focusing on:
 <img src="https://skillicons.dev/icons?i=react,vite,tailwind" />
 </p>
 
-
 ## ⚙️ Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
-
 
 ## 🗄 Database
 
@@ -91,19 +88,15 @@ Currently focusing on:
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,supabase" />
 </p>
 
-
 ## ☁️ Cloud & Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github,postman,vscode" />
 </p>
 
-
-
 ---
 
 # 🧠 Engineering Skills
-
 
 <table>
 
@@ -111,50 +104,55 @@ Currently focusing on:
 
 <td width="50%">
 
-
 ## ⚙️ Backend Engineering
 
-✔ RESTful API Development  
-✔ Express.js Architecture  
-✔ MVC Pattern  
-✔ JWT Authentication  
-✔ Authorization System  
-✔ API Security  
-✔ Backend Testing  
-✔ Error Handling  
+✔ RESTful API Development
 
+✔ Express.js Architecture
+
+✔ MVC Pattern
+
+✔ JWT Authentication
+
+✔ Authorization System
+
+✔ API Security
+
+✔ Backend Testing
+
+✔ Error Handling
 
 </td>
-
 
 <td width="50%">
 
-
 ## 🗄 Database Engineering
 
-✔ Database Design  
-✔ Data Modeling  
-✔ SQL Query Optimization  
-✔ PostgreSQL  
-✔ MySQL  
-✔ MongoDB Schema Design  
-✔ Aggregation Pipeline  
-✔ Database Administration  
+✔ Database Design
 
+✔ Data Modeling
+
+✔ SQL Query Optimization
+
+✔ PostgreSQL
+
+✔ MySQL
+
+✔ MongoDB Schema Design
+
+✔ Aggregation Pipeline
+
+✔ Database Administration
 
 </td>
-
 
 </tr>
 
 </table>
 
-
-
 ---
 
 # 🚀 Featured Projects
-
 
 ## ⚽ Football Hub
 
@@ -162,142 +160,75 @@ Currently focusing on:
 
 Football Hub is a full-stack web application designed to connect football players, manage football activities, and provide an online marketplace experience.
 
-The system focuses on real-world business workflows including user authentication, product management, field booking, and administrative operations.
-
 ### 💡 What I Built
 
-- Designed RESTful APIs for frontend-backend communication
-- Implemented authentication and authorization workflows
-- Developed booking logic with validation to prevent conflicts
-- Built product and marketplace management features
-- Created admin management workflows
-
+- Designed RESTful APIs
+- Authentication & Authorization
+- Booking Validation
+- Marketplace Management
+- Admin Dashboard
 
 ### 🛠 Tech Stack
 
-`React`  
-`Node.js`  
-`Express.js`  
-`MongoDB`  
-`JWT Authentication`
-
+`React`
+`Node.js`
+`Express.js`
+`MongoDB`
+`JWT`
 
 ### 🔑 Key Features
 
-✅ Secure User Authentication  
-✅ Role-based Authorization  
-✅ Football Equipment Marketplace  
-✅ Field Booking System  
-✅ Admin Dashboard  
-✅ Protected API Routes
+✅ Authentication
 
+✅ Marketplace
 
-### 🧠 Engineering Focus
+✅ Booking System
 
-- Backend API Architecture
-- Database Schema Design
-- Authentication Security
-- Business Logic Implementation
-
-
+✅ Admin Dashboard
 
 ---
-
 
 ## 🏟 NexPlay
 
-### Sports Venue Booking & Management Platform
+### Sports Venue Booking Platform
 
-NexPlay is a sports venue management system designed to simplify the booking experience between customers and venue administrators.
+Designed booking workflows with payment verification and LINE integration.
 
-The platform focuses on transforming manual booking processes into a structured digital workflow with payment verification and administrative management.
+### Tech Stack
 
-### 💡 What I Built
+`React`
 
-- Designed booking workflow from reservation to confirmation
-- Created backend services for managing business logic
-- Integrated payment slip verification workflow
-- Developed admin dashboard operations
-- Connected LINE Messaging API for communication
+`Node.js`
 
+`Express`
 
-### 🛠 Tech Stack
+`PostgreSQL`
 
-`React`  
-`Node.js`  
-`Express.js`  
-`PostgreSQL`  
-`Supabase`  
+`Supabase`
+
 `LINE Messaging API`
-
-
-### 🔑 Key Features
-
-✅ Sports Venue Booking  
-✅ Booking Status Management  
-✅ Payment Verification Workflow  
-✅ Admin Dashboard  
-✅ LINE Notification Integration  
-✅ Database-driven Business Logic
-
-
-### 🧠 Engineering Focus
-
-- Transaction Workflow Design
-- Database Management
-- API Integration
-- Real-world Business Process Automation
-
-
 
 ---
 
-
 ## 👟 Kinetix
 
-### Shoe Rental & Inventory Management Platform
+### Shoe Rental Platform
 
-Kinetix is an e-commerce rental platform designed to manage the complete rental lifecycle, from product browsing to order tracking and inventory management.
+Rental lifecycle management with inventory tracking.
 
-The project demonstrates building a system around product lifecycle and rental business operations.
+### Tech Stack
 
-### 💡 What I Built
+`React`
 
-- Designed product and rental data structures
-- Developed authentication system
-- Created inventory management workflow
-- Implemented order and rental tracking logic
+`Express`
 
+`MongoDB`
 
-### 🛠 Tech Stack
-
-`React`  
-`Express.js`  
-`MongoDB`  
 `Mongoose`
-
-
-### 🔑 Key Features
-
-✅ Product Management  
-✅ Rental Workflow  
-✅ Inventory Tracking  
-✅ Order Management  
-✅ User Authentication  
-✅ Database Schema Design
-
-
-### 🧠 Engineering Focus
-
-- NoSQL Database Design
-- Data Modeling
-- Backend Service Architecture
-- Business Workflow Development
 
 ---
 
 # 📜 Certifications
-
 
 | Certificate | Organization | Credential |
 |-------------|--------------|-----------|
@@ -307,8 +238,9 @@ The project demonstrates building a system around product lifecycle and rental b
 | 📐 CSS Box Model & Layout | freeCodeCamp | [📄 View](./Learn%20CSS%20Box%20Model%20and%20Layout%20Course.pdf) |
 | 🎨 Intermediate CSS | freeCodeCamp | [📄 View](./Learn%20Intermediate%20CSS%20Course.pdf) |
 | ⚡ JavaScript Fundamentals | freeCodeCamp | [📄 View](./Learn%20JavaScript%20Fundamentals.pdf) |
-
-
+| 🗄 SQL Course | freeCodeCamp | [📄 View](./Learn%20SQL%20Course.pdf) |
+| 🐍 Python for Data Science Skill Path | freeCodeCamp | [📄 View](./Learn%20Python%20for%20Data%20Science%20Skill%20Path.pdf) |
+| 🚀 Create a Back-End App with JavaScript Skill Path | freeCodeCamp | [📄 View](./Create%20a%20Back-End%20App%20with%20JavaScript%20Skill%20Path.pdf) |
 
 ---
 
@@ -316,19 +248,29 @@ The project demonstrates building a system around product lifecycle and rental b
 
 - 🟢 Database Administration
 - 🟢 AWS RDS
-- 🟢 SQL Performance Optimization
 - 🟢 Docker
 - 🟢 Linux Server Administration
 - 🟢 Redis
 - 🟢 System Design
 - 🟢 CI/CD Pipeline
+- 🟢 RPA Development
+- 🟢 C# .NET Backend
 
+---
 
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ThawatchaiDrakeao&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThawatchaiDrakeao&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
 
 # 🔥 GitHub Streak
-
 
 <p align="center">
 
@@ -336,12 +278,29 @@ The project demonstrates building a system around product lifecycle and rental b
 
 </p>
 
+---
 
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ThawatchaiDrakeao&theme=tokyonight&no-frame=true&margin-w=10"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ThawatchaiDrakeao&theme=tokyo-night"/>
+
+</p>
 
 ---
 
 # 📫 Let's Connect
-
 
 <p align="center">
 
@@ -349,20 +308,15 @@ The project demonstrates building a system around product lifecycle and rental b
 <img src="https://img.shields.io/badge/Email-ctrl.logic.feng%40gmail.com-red?style=flat-square&logo=gmail"/>
 </a>
 
-
 <a href="https://www.linkedin.com/in/fong-thawatchai-drakeao/">
 <img src="https://img.shields.io/badge/LinkedIn-fong--thawatchai--drakeao-blue?style=flat-square&logo=linkedin"/>
 </a>
-
 
 <a href="https://fengpixel-worldportfolio-project.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-fengpixel--worldportfolio-black?style=flat-square&logo=vercel"/>
 </a>
 
-
 </p>
-
-
 
 ---
 

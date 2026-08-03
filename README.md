@@ -1,13 +1,13 @@
 <h1 align="center">
-  👋 Hi, I'm Thawatchai Dakaew
+  👋 Hi, I'm Thawatchai Dakeao
 </h1>
 
 <h3 align="center">
-  🚀 Backend Developer | Full Stack Developer | Database Enthusiast
+🚀 Software Engineer | Data Analytics | Data Engineering
 </h3>
 
 <p align="center">
-Building scalable APIs, database-driven systems, and real-world business applications.
+Building scalable software systems, data-driven applications, and real-world business solutions.
 </p>
 
 <p align="center">
@@ -32,31 +32,27 @@ Building scalable APIs, database-driven systems, and real-world business applica
 
 ## 👨‍💻 About Me
 
-I'm a **Backend-focused Full Stack Developer** passionate about designing scalable backend systems, RESTful APIs, cloud infrastructure, and database-driven applications.
+I'm a **Software Engineer with Data Engineering & Analytics skills**, passionate about building scalable software systems, designing database-driven applications, and developing data solutions that transform raw data into meaningful business insights.
 
-I enjoy building software through
+My experience spans across **full-stack development, backend engineering, SQL, Python, data analysis, and machine learning**, allowing me to build reliable software solutions with data-driven approaches.
 
-✨ Clean Architecture
+### 🚀 What I Build
 
-✨ Secure API Design
+- 📊 Data Analytics & Business Insights
+- 🐍 Python Data Processing & Automation
+- 🗄 Database Design & SQL Optimization
+- ⚙️ Backend APIs & Business Systems
+- 🤖 Machine Learning Applications
+- ☁️ Cloud-ready Software Solutions
 
-✨ Database Optimization
+### 🌱 Currently Learning
 
-✨ Business Workflow Systems
-
-✨ Scalable Backend Services
-
-Currently focusing on
-
-🌱 Database Administration
-
-☁️ AWS Cloud Infrastructure
-
-🐳 Docker & Containerization
-
-🏗 System Design
-
-⚡ Backend Performance Optimization
+- 📊 Data Engineering & ETL Pipelines
+- ☁️ AWS Cloud Services
+- 🐳 Docker & Containerization
+- 🗄 Database Administration
+- 🏗 System Design
+- ⚙️ CI/CD & DevOps
 
 <br clear="right"/>
 
@@ -88,6 +84,24 @@ Currently focusing on
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,supabase" />
 </p>
 
+## 📊 Data & Machine Learning
+
+`Pandas`
+
+`NumPy`
+
+`Scikit-learn`
+
+`XGBoost`
+
+`SHAP`
+
+`Matplotlib`
+
+`Streamlit`
+
+`Jupyter Notebook`
+
 ## ☁️ Cloud & Tools
 
 <p>
@@ -102,13 +116,13 @@ Currently focusing on
 
 <tr>
 
-<td width="50%">
+<td width="33%">
 
-## ⚙️ Backend Engineering
+## ⚙️ Software Engineering
 
 ✔ RESTful API Development
 
-✔ Express.js Architecture
+✔ Backend Architecture
 
 ✔ MVC Pattern
 
@@ -124,7 +138,8 @@ Currently focusing on
 
 </td>
 
-<td width="50%">
+
+<td width="33%">
 
 ## 🗄 Database Engineering
 
@@ -132,7 +147,7 @@ Currently focusing on
 
 ✔ Data Modeling
 
-✔ SQL Query Optimization
+✔ SQL Optimization
 
 ✔ PostgreSQL
 
@@ -146,6 +161,29 @@ Currently focusing on
 
 </td>
 
+
+<td width="33%">
+
+## 📊 Data Engineering & Analytics
+
+✔ Data Cleaning
+
+✔ Exploratory Data Analysis
+
+✔ Feature Engineering
+
+✔ Data Visualization
+
+✔ Machine Learning Workflow
+
+✔ Python Data Processing
+
+✔ SQL Analytics
+
+✔ ETL Fundamentals
+
+</td>
+
 </tr>
 
 </table>
@@ -154,37 +192,75 @@ Currently focusing on
 
 # 🚀 Featured Projects
 
+---
+
+## 🎵 Spotify Music Recommendation System
+
+### AI-Powered Music Recommendation Engine
+
+Built an intelligent recommendation system using **Machine Learning** to analyze over **580,000+ Spotify tracks** and generate personalized music recommendations.
+
+### 🔑 Key Highlights
+
+- 🤖 Developed recommendation engine using **K-Nearest Neighbors (KNN)**
+- 📊 Cleaned and analyzed large-scale datasets with Python & Pandas
+- 🎯 Applied feature engineering and data normalization
+- 🚀 Built interactive recommendation application with Streamlit
+- 📈 Implemented hybrid ranking strategy
+
+### 🛠 Tech Stack
+
+`Python` `Pandas` `Scikit-learn` `KNN` `Streamlit`
+
+🔗 GitHub:
+https://github.com/ThawatchaiDrakeao/spotify-data-analysis
+
+
+---
+
+## 🏡 California House Price Prediction
+
+### Machine Learning Regression & Explainable AI
+
+Developed an end-to-end machine learning solution to predict California housing prices and analyze important factors affecting predictions.
+
+### 🔑 Key Highlights
+
+- 🤖 Built regression model using **XGBoost**
+- 📊 Performed EDA and feature engineering
+- 📈 Evaluated model performance
+- 🔍 Applied SHAP for model explainability
+- 🐍 Built complete ML workflow with Python
+
+### 🛠 Tech Stack
+
+`Python` `Pandas` `Scikit-learn` `XGBoost` `SHAP`
+
+🔗 GitHub:
+https://github.com/ThawatchaiDrakeao/california-house-price-prediction 
+---
+
 ## ⚽ Football Hub
 
 ### Full Stack Football Community & Marketplace Platform
 
-Football Hub is a full-stack web application designed to connect football players, manage football activities, and provide an online marketplace experience.
+Designed and developed a full-stack platform that enables football players to connect, manage bookings, and buy or sell football equipment through a unified web application.
 
-### 💡 What I Built
+### 🔑 Key Highlights
 
-- Designed RESTful APIs
-- Authentication & Authorization
-- Booking Validation
-- Marketplace Management
-- Admin Dashboard
+- ⚙️ Designed scalable RESTful APIs with Express.js
+- 🔐 Implemented JWT Authentication & Role-Based Authorization
+- 🗄 Designed MongoDB database schema and relationships
+- 🛒 Built marketplace, booking, and user management modules
+- 👨‍💼 Developed admin dashboard for system management
 
 ### 🛠 Tech Stack
 
-`React`
-`Node.js`
-`Express.js`
-`MongoDB`
-`JWT`
+`React` `Node.js` `Express.js` `MongoDB` `JWT`
 
-### 🔑 Key Features
+🔗 GitHub:
+https://github.com/ThawatchaiDrakeao/Football-Hub
 
-✅ Authentication
-
-✅ Marketplace
-
-✅ Booking System
-
-✅ Admin Dashboard
 
 ---
 
@@ -192,69 +268,72 @@ Football Hub is a full-stack web application designed to connect football player
 
 ### Sports Venue Booking Platform
 
-Designed booking workflows with payment verification and LINE integration.
+Developed a backend-driven sports venue booking platform featuring booking management, payment verification, and LINE Messaging API integration.
 
-### Tech Stack
+### 🔑 Key Highlights
 
-`React`
+- 📅 Designed booking and availability management workflows
+- 💳 Implemented payment verification process
+- 🗄 Designed PostgreSQL database architecture with Supabase
+- 📲 Integrated LINE Messaging API
+- ⚙️ Developed scalable RESTful APIs
 
-`Node.js`
+### 🛠 Tech Stack
 
-`Express`
+`Node.js` `Express.js` `PostgreSQL` `Supabase` `LINE Messaging API`
 
-`PostgreSQL`
+🔗 GitHub:
+https://github.com/ThawatchaiDrakeao/Yellownex
 
-`Supabase`
-
-`LINE Messaging API`
 
 ---
 
 ## 👟 Kinetix
 
-### Shoe Rental Platform
+### Full Stack Shoe Rental Management System
 
-Rental lifecycle management with inventory tracking.
+Built a rental management platform for inventory tracking, customer management, and rental operations.
 
-### Tech Stack
+### 🔑 Key Highlights
 
-`React`
+- 📦 Designed rental lifecycle management
+- 🗄 Built MongoDB data models
+- ⚙️ Developed RESTful backend services
+- 🎨 Created responsive React interfaces
+- 🔐 Implemented authentication and user management
 
-`Express`
+### 🛠 Tech Stack
 
-`MongoDB`
-
-`Mongoose`
+`React` `Node.js` `Express.js` `MongoDB` `Mongoose`
 
 ---
 
 # 📜 Certifications
 
-| Certificate | Organization | Credential |
-|-------------|--------------|-----------|
-| 🏆 Junior Software Developer | Generation Thailand | [📄 View](./Certificate%20Junior%20Software%20Developer.png) |
-| 🌐 HTML Semantic HTML | freeCodeCamp | [📄 View](./Learn%20HTML%20Semantic%20HTML%20Course.pdf) |
-| 🎨 CSS Course | freeCodeCamp | [📄 View](./Learn%20CSS%20Course.pdf) |
-| 📐 CSS Box Model & Layout | freeCodeCamp | [📄 View](./Learn%20CSS%20Box%20Model%20and%20Layout%20Course.pdf) |
-| 🎨 Intermediate CSS | freeCodeCamp | [📄 View](./Learn%20Intermediate%20CSS%20Course.pdf) |
-| ⚡ JavaScript Fundamentals | freeCodeCamp | [📄 View](./Learn%20JavaScript%20Fundamentals.pdf) |
-| 🗄 SQL Course | freeCodeCamp | [📄 View](./Learn%20SQL%20Course.pdf) |
-| 🐍 Python for Data Science Skill Path | freeCodeCamp | [📄 View](./Learn%20Python%20for%20Data%20Science%20Skill%20Path.pdf) |
-| 🚀 Create a Back-End App with JavaScript Skill Path | freeCodeCamp | [📄 View](./Create%20a%20Back-End%20App%20with%20JavaScript%20Skill%20Path.pdf) |
+| Certificate | Organization |
+|-------------|--------------|
+| 🏆 Junior Software Developer | Generation Thailand |
+| 🐍 Python for Data Science Skill Path | freeCodeCamp |
+| 🗄 SQL Course | freeCodeCamp |
+| 🚀 Create a Back-End App with JavaScript Skill Path | freeCodeCamp |
+| ⚡ JavaScript Fundamentals | freeCodeCamp |
+| 🤖 Prompt Engineering Course | Codecademy |
+| 📊 Intermediate SQL for Marketers and Product Managers | Codecademy |
+
+📂 More certificates available in this repository.
+
 
 ---
 
 # 📚 Currently Learning
 
-- 🟢 Database Administration
-- 🟢 AWS RDS
-- 🟢 Docker
-- 🟢 Linux Server Administration
-- 🟢 Redis
-- 🟢 System Design
-- 🟢 CI/CD Pipeline
-- 🟢 RPA Development
-- 🟢 C# .NET Backend
+- 📊 Data Engineering & ETL Pipelines
+- ☁️ AWS Cloud Services
+- 🐳 Docker & Containerization
+- 🗄 Database Administration
+- 🏗 System Design
+- ⚙️ CI/CD Pipeline
+
 
 ---
 
@@ -268,6 +347,7 @@ Rental lifecycle management with inventory tracking.
 
 </p>
 
+
 ---
 
 # 🔥 GitHub Streak
@@ -277,6 +357,7 @@ Rental lifecycle management with inventory tracking.
 <img src="https://streak-stats.demolab.com?user=ThawatchaiDrakeao&theme=tokyonight&hide_border=true"/>
 
 </p>
+
 
 ---
 
@@ -288,6 +369,7 @@ Rental lifecycle management with inventory tracking.
 
 </p>
 
+
 ---
 
 # 📈 Contribution Graph
@@ -297,6 +379,7 @@ Rental lifecycle management with inventory tracking.
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThawatchaiDrakeao&theme=tokyo-night"/>
 
 </p>
+
 
 ---
 
@@ -318,12 +401,13 @@ Rental lifecycle management with inventory tracking.
 
 </p>
 
+
 ---
 
 <p align="center">
 
-⭐ Building today. Improving tomorrow.
+⭐ Building scalable software with data-driven solutions.
 
-🚀 Always Learning • Always Creating
+🚀 Always Learning • Always Improving
 
 </p>

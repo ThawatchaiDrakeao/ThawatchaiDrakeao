@@ -310,17 +310,25 @@ Built a rental management platform for inventory tracking, customer management, 
 
 # 📜 Certifications
 
-| Certificate | Organization |
-|-------------|--------------|
-| 🏆 Junior Software Developer | Generation Thailand |
-| 🐍 Python for Data Science Skill Path | freeCodeCamp |
-| 🗄 SQL Course | freeCodeCamp |
-| 🚀 Create a Back-End App with JavaScript Skill Path | freeCodeCamp |
-| ⚡ JavaScript Fundamentals | freeCodeCamp |
-| 🤖 Prompt Engineering Course | Codecademy |
-| 📊 Intermediate SQL for Marketers and Product Managers | Codecademy |
+| Certificate | Organization | Credential |
+|-------------|--------------|-----------|
+| 🏆 Junior Software Developer | Generation Thailand | [📄 View](./Thawatchai_Drakeao_Generation_Thailand_Certificate.pdf) |
+| 🤖 Learn Prompt Engineering Course | Codecademy | [📄 View](./Learn%20Prompt%20Engineering%20Course.pdf) |
+| 📊 Learn Intermediate SQL for Marketers and Product Managers Course | Codecademy | [📄 View](./Learn%20Intermediate%20SQL%20for%20Marketers%20and%20Product%20Managers%20Course.pdf) |
+| 📈 How to Analyze Business Metrics with SQL Course | Codecademy | [📄 View](./How%20to%20Analyze%20Business%20Metrics%20with%20SQL%20Course.pdf) |
+| 🗄 How to Transform Tables with SQL Course | Codecademy | [📄 View](./How%20to%20Transform%20Tables%20with%20SQL%20Course.pdf) |
+| 📊 Analyze Data with SQL Skill Path | Codecademy | [📄 View](./Analyze%20Data%20with%20SQL%20Skill%20Path.pdf) |
+| 🗄 Design Databases With PostgreSQL Skill Path | Codecademy | [📄 View](./Design%20Databases%20With%20PostgreSQL%20Skill%20Path.pdf) |
+| 🐍 Learn Python 3 Course | Codecademy | [📄 View](./Learn%20Python%203%20Course.pdf) |
+| 🐍 Python for Data Science Skill Path | Codecademy | [📄 View](./Learn%20Python%20for%20Data%20Science%20Skill%20Path.pdf) |
+| 🗄 Learn SQL Course | Codecademy | [📄 View](./Learn%20SQL%20Course.pdf) |
+| 🚀 Create a Back-End App with JavaScript Skill Path | Codecademy | [📄 View](./Create%20a%20Back-End%20App%20with%20JavaScript%20Skill%20Path.pdf) |
+| 🌐 HTML Semantic HTML Course | freeCodeCamp | [📄 View](./Learn%20HTML%20Semantic%20HTML%20Course.pdf) |
+| 🎨 CSS Box Model and Layout Course | freeCodeCamp | [📄 View](./Learn%20CSS%20Box%20Model%20and%20Layout%20Course.pdf) |
+| 🎨 CSS Course | freeCodeCamp | [📄 View](./Learn%20CSS%20Course.pdf) |
+| ⚡ JavaScript Fundamentals | freeCodeCamp | [📄 View](./Learn%20JavaScript%20Fundamentals.pdf) |
+| 🎨 Intermediate CSS Course | freeCodeCamp | [📄 View](./Learn%20Intermediate%20CSS%20Course.pdf) |
 
-📂 More certificates available in this repository.
 
 
 ---

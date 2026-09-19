@@ -1,421 +1,424 @@
-<h1 align="center">
-  👋 Hi, I'm Thawatchai Dakeao
-</h1>
+# Thawatchai Drakeao
 
-<h3 align="center">
-🚀 Software Engineer | Data Analytics | Data Engineering
-</h3>
+### 🤖 AI Engineer | LLM & RAG | Machine Learning
 
-<p align="center">
-Building scalable software systems, data-driven applications, and real-world business solutions.
-</p>
+Building practical AI applications, retrieval systems, machine learning solutions, and backend services with Python.
 
-<p align="center">
-
-<a href="mailto:ctrl.logic.feng@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/fong-thawatchai-drakeao/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://fengpixel-worldportfolio-project.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-ThawatchaiDrakeao-181717?style=flat\&logo=github)](https://github.com/ThawatchaiDrakeao)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat\&logo=gmail\&logoColor=white)](mailto:ctrl.logic.feng@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=flat\&logo=vercel\&logoColor=white)](https://fengpixel-worldportfolio-project.vercel.app/)
 
 ---
 
-<img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+## 👋 About Me
 
-## 👨‍💻 About Me
+AI Engineer focused on building practical AI systems with **Python, LLMs, RAG, machine learning, and backend engineering**.
 
-I'm a **Software Engineer with Data Engineering & Analytics skills**, passionate about building scalable software systems, designing database-driven applications, and developing data solutions that transform raw data into meaningful business insights.
+I enjoy turning data and AI capabilities into usable applications — from retrieval pipelines and embeddings to APIs, evaluation workflows, and deployment.
 
-My experience spans across **full-stack development, backend engineering, SQL, Python, data analysis, and machine learning**, allowing me to build reliable software solutions with data-driven approaches.
-
-### 🚀 What I Build
-
-- 📊 Data Analytics & Business Insights
-- 🐍 Python Data Processing & Automation
-- 🗄 Database Design & SQL Optimization
-- ⚙️ Backend APIs & Business Systems
-- 🤖 Machine Learning Applications
-- ☁️ Cloud-ready Software Solutions
-
-### 🌱 Currently Learning
-
-- 📊 Data Engineering & ETL Pipelines
-- ☁️ AWS Cloud Services
-- 🐳 Docker & Containerization
-- 🗄 Database Administration
-- 🏗 System Design
-- ⚙️ CI/CD & DevOps
-
-<br clear="right"/>
+My current focus is on building AI systems that are **measurable, testable, and deployable**, rather than only prototype-level demonstrations.
 
 ---
 
-# 🛠 Tech Arsenal
+## 🧠 What I Build
 
-## 💻 Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=javascript,html,css,python" />
-</p>
-
-## 🎨 Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind" />
-</p>
-
-## ⚙️ Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-## 🗄 Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,supabase" />
-</p>
-
-## 📊 Data & Machine Learning
-
-`Pandas`
-
-`NumPy`
-
-`Scikit-learn`
-
-`XGBoost`
-
-`SHAP`
-
-`Matplotlib`
-
-`Streamlit`
-
-`Jupyter Notebook`
-
-## ☁️ Cloud & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github,postman,vscode" />
-</p>
+* LLM-powered applications
+* Retrieval-Augmented Generation (RAG) systems
+* Semantic and hybrid retrieval pipelines
+* Embedding and vector search systems
+* AI agents and tool-integrated workflows
+* Machine learning applications and evaluation pipelines
+* Python APIs and AI backends
+* Production-oriented AI applications
 
 ---
 
-# 🧠 Engineering Skills
+## 🚀 AI Engineering Focus
 
-<table>
+```text
+LLM Applications
+        ↓
+RAG & Retrieval
+        ↓
+Embeddings & Vector Search
+        ↓
+Evaluation & Reranking
+        ↓
+AI Agents & MCP
+        ↓
+API & Backend Engineering
+        ↓
+Docker & Cloud Deployment
+```
 
-<tr>
+### Current Areas
 
-<td width="33%">
-
-## ⚙️ Software Engineering
-
-✔ RESTful API Development
-
-✔ Backend Architecture
-
-✔ MVC Pattern
-
-✔ JWT Authentication
-
-✔ Authorization System
-
-✔ API Security
-
-✔ Backend Testing
-
-✔ Error Handling
-
-</td>
-
-
-<td width="33%">
-
-## 🗄 Database Engineering
-
-✔ Database Design
-
-✔ Data Modeling
-
-✔ SQL Optimization
-
-✔ PostgreSQL
-
-✔ MySQL
-
-✔ MongoDB Schema Design
-
-✔ Aggregation Pipeline
-
-✔ Database Administration
-
-</td>
-
-
-<td width="33%">
-
-## 📊 Data Engineering & Analytics
-
-✔ Data Cleaning
-
-✔ Exploratory Data Analysis
-
-✔ Feature Engineering
-
-✔ Data Visualization
-
-✔ Machine Learning Workflow
-
-✔ Python Data Processing
-
-✔ SQL Analytics
-
-✔ ETL Fundamentals
-
-</td>
-
-</tr>
-
-</table>
+* LLM Applications
+* Retrieval-Augmented Generation (RAG)
+* Embeddings & Vector Search
+* Semantic Search
+* Hybrid Retrieval
+* Retrieval Evaluation
+* Reranking Evaluation
+* Prompt Engineering
+* AI Agents
+* MCP
+* Microsoft Foundry
+* Azure AI Search
+* Azure Machine Learning
+* MLflow & MLOps
+* GenAIOps
 
 ---
 
-# 🚀 Featured Projects
+# ⭐ Featured AI Project
+
+## ⚖️ Thai Legal RAG
+
+**Production-oriented legal document question-answering system using RAG.**
+
+🔗 [View Repository](https://github.com/ThawatchaiDrakeao/Thai-Legal-RAG)
+
+### What I Built
+
+* End-to-end RAG pipeline using Python
+* Document processing and chunking
+* Multilingual E5 embeddings
+* FAISS vector search
+* Exact article-number retrieval
+* Semantic retrieval
+* Hybrid retrieval strategy
+* Retrieval evaluation
+* Experimental reranking benchmarks
+* Source-aware answer generation
+* Gemini 2.5 Flash integration
+* FastAPI backend
+* React / Vite frontend
+* Dockerized deployment
+* Automated testing with pytest
+* Cloud deployment workflow
+
+### System Architecture
+
+```text
+Legal Documents
+      ↓
+Document Processing
+      ↓
+Chunking & Metadata
+      ↓
+Multilingual E5 Embeddings
+      ↓
+FAISS Vector Index
+      ↓
+Article Match + Semantic Retrieval
+      ↓
+Retrieval Evaluation
+      ↓
+Gemini 2.5 Flash
+      ↓
+FastAPI
+      ↓
+React / Vite
+      ↓
+Docker / Cloud
+```
+
+### Project Evidence
+
+* **3,361 vectors**
+* **384-dimensional embeddings**
+* Multilingual E5 embedding model
+* FAISS `IndexFlatIP`
+* Automated test suite
+* Retrieval benchmark workflows
+* Article-level source attribution
+* Docker production environment
+
+### Tech Stack
+
+`Python` `RAG` `Gemini API` `FAISS` `Multilingual E5` `PyThaiNLP` `FastAPI` `React` `Vite` `Docker`
 
 ---
 
-## 🎵 Spotify Music Recommendation System
+# 📊 Machine Learning Projects
 
-### AI-Powered Music Recommendation Engine
+## 🏠 California House Price Prediction
 
-Built an intelligent recommendation system using **Machine Learning** to analyze over **580,000+ Spotify tracks** and generate personalized music recommendations.
+Machine learning regression system for California housing price prediction.
 
-### 🔑 Key Highlights
+🔗 [View Repository](https://github.com/ThawatchaiDrakeao/california-house-price-prediction)
 
-- 🤖 Developed recommendation engine using **K-Nearest Neighbors (KNN)**
-- 📊 Cleaned and analyzed large-scale datasets with Python & Pandas
-- 🎯 Applied feature engineering and data normalization
-- 🚀 Built interactive recommendation application with Streamlit
-- 📈 Implemented hybrid ranking strategy
+### Highlights
 
-### 🛠 Tech Stack
+* XGBoost regression
+* Feature analysis
+* SHAP explainability
+* Model evaluation
+* Streamlit application
 
-`Python` `Pandas` `Scikit-learn` `KNN` `Streamlit`
+### Model Results
 
-🔗 GitHub:
-https://github.com/ThawatchaiDrakeao/spotify-data-analysis
+```text
+R²   : 0.849
+RMSE : 0.444
+MAE  : 0.291
+```
 
+**Tech:** `Python` `Pandas` `NumPy` `Scikit-learn` `XGBoost` `SHAP` `Streamlit`
 
 ---
 
-## 🏡 California House Price Prediction
+## 🎵 Spotify Recommendation System
 
-### Machine Learning Regression & Explainable AI
+Recommendation and data analysis project using a large-scale Spotify dataset.
 
-Developed an end-to-end machine learning solution to predict California housing prices and analyze important factors affecting predictions.
+🔗 [View Repository](https://github.com/ThawatchaiDrakeao/spotify-data-analysis)
 
-### 🔑 Key Highlights
+### Highlights
 
-- 🤖 Built regression model using **XGBoost**
-- 📊 Performed EDA and feature engineering
-- 📈 Evaluated model performance
-- 🔍 Applied SHAP for model explainability
-- 🐍 Built complete ML workflow with Python
+* 580,000+ processed tracks
+* KNN-based recommendation
+* Hybrid ranking approach
+* Data preprocessing
+* Feature analysis
+* Streamlit application
 
-### 🛠 Tech Stack
+**Tech:** `Python` `Pandas` `Scikit-learn` `KNN` `Recommendation Systems` `Streamlit`
 
-`Python` `Pandas` `Scikit-learn` `XGBoost` `SHAP`
-
-🔗 GitHub:
-https://github.com/ThawatchaiDrakeao/california-house-price-prediction 
 ---
+
+# 💻 Software Engineering Projects
 
 ## ⚽ Football Hub
 
-### Full Stack Football Community & Marketplace Platform
+Full-stack football community and marketplace platform.
 
-Designed and developed a full-stack platform that enables football players to connect, manage bookings, and buy or sell football equipment through a unified web application.
+🔗 [View Repository](https://github.com/ThawatchaiDrakeao/football-hub-public)
 
-### 🔑 Key Highlights
+### Built
 
-- ⚙️ Designed scalable RESTful APIs with Express.js
-- 🔐 Implemented JWT Authentication & Role-Based Authorization
-- 🗄 Designed MongoDB database schema and relationships
-- 🛒 Built marketplace, booking, and user management modules
-- 👨‍💼 Developed admin dashboard for system management
+* REST APIs
+* Authentication and authorization
+* JWT
+* User management
+* Marketplace functionality
+* Field booking
+* Matchmaking
+* Data modeling
+* Responsive frontend
 
-### 🛠 Tech Stack
-
-`React` `Node.js` `Express.js` `MongoDB` `JWT`
-
-🔗 GitHub:
-https://github.com/ThawatchaiDrakeao/Football-Hub
-
+**Tech:** `React` `Vite` `Tailwind CSS` `Node.js` `Express.js` `MongoDB` `JWT`
 
 ---
 
-## 🏟 NexPlay
+## 🎮 NexPlay
 
-### Sports Venue Booking Platform
+Full-stack booking and entertainment platform.
 
-Developed a backend-driven sports venue booking platform featuring booking management, payment verification, and LINE Messaging API integration.
+🔗 [View Repository](https://github.com/ThawatchaiDrakeao/NexPlay)
 
-### 🔑 Key Highlights
+### Built
 
-- 📅 Designed booking and availability management workflows
-- 💳 Implemented payment verification process
-- 🗄 Designed PostgreSQL database architecture with Supabase
-- 📲 Integrated LINE Messaging API
-- ⚙️ Developed scalable RESTful APIs
+* Backend APIs
+* Database schema
+* Booking workflow
+* Payment verification
+* Frontend-backend integration
+* LINE Messaging API integration
 
-### 🛠 Tech Stack
-
-`Node.js` `Express.js` `PostgreSQL` `Supabase` `LINE Messaging API`
-
-🔗 GitHub:
-https://github.com/ThawatchaiDrakeao/Yellownex
-
+**Tech:** `Node.js` `Express.js` `PostgreSQL` `Supabase` `REST API`
 
 ---
 
-## 👟 Kinetix
+## 🧩 Kinetix
 
-### Full Stack Shoe Rental Management System
+Team-based full-stack project developed during Generation Thailand / YellowNex Hackathon.
 
-Built a rental management platform for inventory tracking, customer management, and rental operations.
+🔗 [View Repository](https://github.com/ThawatchaiDrakeao/Kinetix_Backend)
 
-### 🔑 Key Highlights
+### Contribution
 
-- 📦 Designed rental lifecycle management
-- 🗄 Built MongoDB data models
-- ⚙️ Developed RESTful backend services
-- 🎨 Created responsive React interfaces
-- 🔐 Implemented authentication and user management
+* Worked in a 6-person development team
+* Backend API development
+* Database design
+* MongoDB / Mongoose
+* Rental functionality
+* Authentication
+* Frontend-backend integration
 
-### 🛠 Tech Stack
-
-`React` `Node.js` `Express.js` `MongoDB` `Mongoose`
-
----
-
-# 📜 Certifications
-
-| Certificate | Organization | Credential |
-|-------------|--------------|-----------|
-| 🏆 Junior Software Developer | Generation Thailand | [📄 View](./Thawatchai_Drakeao_Generation_Thailand_Certificate.pdf) |
-| 🤖 Learn Prompt Engineering Course | Codecademy | [📄 View](./Learn%20Prompt%20Engineering%20Course.pdf) |
-| 📊 Learn Intermediate SQL for Marketers and Product Managers Course | Codecademy | [📄 View](./Learn%20Intermediate%20SQL%20for%20Marketers%20and%20Product%20Managers%20Course.pdf) |
-| 📈 How to Analyze Business Metrics with SQL Course | Codecademy | [📄 View](./How%20to%20Analyze%20Business%20Metrics%20with%20SQL%20Course.pdf) |
-| 🗄 How to Transform Tables with SQL Course | Codecademy | [📄 View](./How%20to%20Transform%20Tables%20with%20SQL%20Course.pdf) |
-| 📊 Analyze Data with SQL Skill Path | Codecademy | [📄 View](./Analyze%20Data%20with%20SQL%20Skill%20Path.pdf) |
-| 🗄 Design Databases With PostgreSQL Skill Path | Codecademy | [📄 View](./Design%20Databases%20With%20PostgreSQL%20Skill%20Path.pdf) |
-| 🐍 Learn Python 3 Course | Codecademy | [📄 View](./Learn%20Python%203%20Course.pdf) |
-| 🐍 Python for Data Science Skill Path | Codecademy | [📄 View](./Learn%20Python%20for%20Data%20Science%20Skill%20Path.pdf) |
-| 🗄 Learn SQL Course | Codecademy | [📄 View](./Learn%20SQL%20Course.pdf) |
-| 🚀 Create a Back-End App with JavaScript Skill Path | Codecademy | [📄 View](./Create%20a%20Back-End%20App%20with%20JavaScript%20Skill%20Path.pdf) |
-| 🌐 HTML Semantic HTML Course | freeCodeCamp | [📄 View](./Learn%20HTML%20Semantic%20HTML%20Course.pdf) |
-| 🎨 CSS Box Model and Layout Course | freeCodeCamp | [📄 View](./Learn%20CSS%20Box%20Model%20and%20Layout%20Course.pdf) |
-| 🎨 CSS Course | freeCodeCamp | [📄 View](./Learn%20CSS%20Course.pdf) |
-| ⚡ JavaScript Fundamentals | freeCodeCamp | [📄 View](./Learn%20JavaScript%20Fundamentals.pdf) |
-| 🎨 Intermediate CSS Course | freeCodeCamp | [📄 View](./Learn%20Intermediate%20CSS%20Course.pdf) |
-
-
+**Tech:** `React` `Node.js` `Express.js` `MongoDB` `Mongoose`
 
 ---
 
-# 📚 Currently Learning
+# 🛠️ Technical Skills
 
-- 📊 Data Engineering & ETL Pipelines
-- ☁️ AWS Cloud Services
-- 🐳 Docker & Containerization
-- 🗄 Database Administration
-- 🏗 System Design
-- ⚙️ CI/CD Pipeline
+### AI & LLM
 
+`Python` `LLM Applications` `RAG` `Prompt Engineering` `AI Agents` `MCP` `Embeddings` `Vector Search` `FAISS` `Gemini API` `Microsoft Foundry`
+
+### Retrieval & NLP
+
+`Semantic Search` `Hybrid Retrieval` `Retrieval Evaluation` `Reranking Evaluation` `Multilingual E5` `PyThaiNLP`
+
+### Machine Learning & Data
+
+`Pandas` `NumPy` `Scikit-learn` `XGBoost` `KNN` `Recommendation Systems` `SHAP` `Matplotlib` `Streamlit` `Jupyter`
+
+### Azure AI & Machine Learning
+
+`Microsoft Foundry` `Azure AI Search` `Azure Machine Learning` `MLflow` `MLOps` `GenAIOps` `GitHub Actions`
+
+### Backend & Software Engineering
+
+`FastAPI` `REST API` `React` `Vite` `Node.js` `Express.js` `Git` `GitHub`
+
+### Databases
+
+`MongoDB` `PostgreSQL` `MySQL` `Supabase`
+
+### Tools & Infrastructure
+
+`Docker` `Linux` `Postman` `VS Code`
 
 ---
 
-# 📊 GitHub Stats
+# ☁️ Microsoft Learn — Azure AI & Machine Learning
+
+Hands-on Microsoft Learn modules covering AI engineering, generative AI, AI agents, retrieval, evaluation, Azure Machine Learning, and MLOps.
+
+### Microsoft Foundry & Generative AI
+
+* Develop Generative AI applications with Microsoft Foundry
+* Select, deploy, and evaluate Microsoft Foundry models
+* Enhance Generative AI models
+* Develop AI-powered chat applications
+* Review and evaluate AI applications
+* Build knowledge-enhancing AI agents with Foundry IQ
+
+### AI Agents & MCP
+
+* Develop AI agents using Microsoft Agent Framework
+* Coordinate multiple-agent solutions
+* Discover Azure AI Agents with A2A
+* Integrate MCP tools with Azure AI Agents
+* Integrate custom tools into agents
+* Create agent-driven workflows
+* Develop AI agents with Microsoft Foundry and Visual Studio Code
+
+### AI Search, Evaluation & GenAIOps
+
+* Build knowledge mining solutions with Azure AI Search
+* Evaluate and optimize AI agents through structured experiments
+* Automate AI evaluation with Microsoft Foundry and GitHub Actions
+* Manage agent prompts with GitHub
+* Plan and prepare GenAIOps solutions
+
+### Azure Machine Learning & MLOps
+
+* Get started with machine learning in Azure
+* Run pipelines in Azure Machine Learning
+* Track models with MLflow
+* Perform hyperparameter customization
+* Deploy and validate models
+* Automate model training with GitHub Actions
+* Design machine learning / MLOps solutions
+
+---
+
+# 🎓 Training
+
+### AI-103T00-A — Develop AI Apps and Agents on Azure
+
+**Trainocate Thailand**
+
+Hands-on training covering:
+
+* Microsoft Foundry
+* AI Agents
+* MCP
+* Microsoft Agent Framework SDK
+* Model evaluation
+* Content filtering
+* AI application development
+
+### Generation Thailand — Junior Software Developer
+
+**Full-Stack Software Development Bootcamp | Mar–Jun 2026**
+
+Training focused on:
+
+* React
+* Node.js
+* Express.js
+* MongoDB
+* PostgreSQL
+* REST APIs
+* Authentication
+* Git / GitHub
+* Agile development
+* Full-stack application development
+
+---
+
+# 📚 Additional Learning
+
+### Codecademy
+
+* Prompt Engineering
+* Python
+* Python for Data Science
+* SQL
+* PostgreSQL
+* Data Analyst Interview Preparation
+* Business Metrics with SQL
+* Database Design with PostgreSQL
+* Backend Development with JavaScript
+
+### freeCodeCamp
+
+* Semantic HTML
+* CSS
+* Intermediate CSS
+* JavaScript Fundamentals
+* CSS Box Model & Layout
+
+---
+
+# 🎯 Current Focus
+
+```text
+AI Engineering
+├── LLM Applications
+├── RAG & Retrieval
+├── Embeddings & Vector Search
+├── Retrieval Evaluation
+├── Reranking
+├── AI Agents
+├── MCP
+├── Microsoft Foundry
+├── Azure AI Search
+├── Azure Machine Learning
+├── MLflow & MLOps
+└── Production-oriented AI Systems
+```
+
+Currently focused on building practical AI systems with **Python, retrieval, evaluation, agents, and cloud AI platforms**.
+
+---
+
+# 📫 Contact
+
+**Email:** [ctrl.logic.feng@gmail.com](mailto:ctrl.logic.feng@gmail.com)
+
+**Portfolio:**
+https://fengpixel-worldportfolio-project.vercel.app/
+
+**GitHub:**
+https://github.com/ThawatchaiDrakeao
+
+---
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ThawatchaiDrakeao&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThawatchaiDrakeao&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=ThawatchaiDrakeao&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ThawatchaiDrakeao&theme=tokyonight&no-frame=true&margin-w=10"/>
-
-</p>
-
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ThawatchaiDrakeao&theme=tokyo-night"/>
-
-</p>
-
-
----
-
-# 📫 Let's Connect
-
-<p align="center">
-
-<a href="mailto:ctrl.logic.feng@gmail.com">
-<img src="https://img.shields.io/badge/Email-ctrl.logic.feng%40gmail.com-red?style=flat-square&logo=gmail"/>
-</a>
-
-<a href="https://www.linkedin.com/in/fong-thawatchai-drakeao/">
-<img src="https://img.shields.io/badge/LinkedIn-fong--thawatchai--drakeao-blue?style=flat-square&logo=linkedin"/>
-</a>
-
-<a href="https://fengpixel-worldportfolio-project.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-fengpixel--worldportfolio-black?style=flat-square&logo=vercel"/>
-</a>
-
-</p>
-
-
----
-
-<p align="center">
-
-⭐ Building scalable software with data-driven solutions.
-
-🚀 Always Learning • Always Improving
-
+  Building AI systems with Python, data, retrieval, and intelligent workflows.
 </p>
